@@ -18,7 +18,8 @@ Since that behaviour could turn into a security issue, we've also setup a signin
 
 Creating a signature is done on client-side and doesn't have any interaction with the chain so it's totally safe.
 
-https://user-images.githubusercontent.com/38172/212745139-919a969c-1064-414f-8e63-eaacfc17d29d.mp4
+
+file:///C:/Users/USER/Videos/%E5%B1%8F%E5%B9%95%E5%BD%95%E5%88%B6/%E5%B1%8F%E5%B9%95%E5%BD%95%E5%88%B6%202024-09-06%20233651.mp4
 
 ### **🔗 Interact with Solana's blockchain**
 
