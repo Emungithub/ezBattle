@@ -37,7 +37,7 @@ All of these actions are done natively using Solana Labs official libraries like
 
 On top of that, we're using NextJS architecture to have these actions executed in the backend and only the transaction signing happens on client-side.
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.youtube.com/watch?v=y-gPmCucFiw)
+[![Watch the video]](https://www.youtube.com/watch?v=y-gPmCucFiw)
 
 
 ### **🔌 Fetch on-chain data through Helius API**
