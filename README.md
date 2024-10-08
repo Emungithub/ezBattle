@@ -19,7 +19,7 @@ Since that behaviour could turn into a security issue, we've also setup a signin
 Creating a signature is done on client-side and doesn't have any interaction with the chain so it's totally safe.
 
 
-file:///C:/Users/USER/Videos/%E5%B1%8F%E5%B9%95%E5%BD%95%E5%88%B6/%E5%B1%8F%E5%B9%95%E5%BD%95%E5%88%B6%202024-09-06%20233651.mp4
+https://www.youtube.com/watch?v=y-gPmCucFiw
 
 ### **🔗 Interact with Solana's blockchain**
 
@@ -37,7 +37,8 @@ All of these actions are done natively using Solana Labs official libraries like
 
 On top of that, we're using NextJS architecture to have these actions executed in the backend and only the transaction signing happens on client-side.
 
-https://user-images.githubusercontent.com/38172/212745192-14713ea5-6dab-4889-b400-baf1337a4f1f.mp4
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.youtube.com/watch?v=y-gPmCucFiw)
+
 
 ### **🔌 Fetch on-chain data through Helius API**
 
