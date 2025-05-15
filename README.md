@@ -1,6 +1,7 @@
 # Build your own Solana dApp with NextJS and TypeScript
 
-![image](https://user-images.githubusercontent.com/38172/212745837-5de1adb8-7bca-4af1-9772-9e9547a4a06b.png)
+![EzBattle](https://github.com/user-attachments/assets/44d1576d-1812-42ca-a057-e3cd8b26f638)
+
 
 This starter kit contains everything you need to get started with Solana dApps! 🚀
 
